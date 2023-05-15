@@ -91,9 +91,9 @@ send_to_dd("Hello, DingTalk!")
 
 ### Tutorials
 
-1. [Monitor Twitter RSS and send message to TG] (https://twitter.com/eth_believer_ho/status/1657035019586609153).
+1. [Monitor Twitter RSS and send message to TG](https://twitter.com/eth_believer_ho/status/1657035019586609153).
 
 
 ### Contributions
 
-1. The push_dingding.py script was originally written by [鲁初雪](https://twitter.com/PNajgaGihn4ALWm). [Ho Sir](https://github.com/hosir-web3) has modified the script to better fit into this project's structure and to improve compatibility with the existing monitor_rss.py script.
+1. [鲁初雪](https://twitter.com/PNajgaGihn4ALWm) has originally written the push_dingding.py script. [Ho Sir](https://github.com/hosir-web3) has modified the script to better fit into this project's structure and to improve compatibility with the existing monitor_rss.py script.
