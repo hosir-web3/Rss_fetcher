@@ -3,6 +3,9 @@ import telebot
 import feedparser
 from bs4 import BeautifulSoup
 
+# uncomment the next line if you will use dingding
+# from push_dingding import send_to_dd
+
 # Initialize bot with your token
 bot_token = ''
 bot = telebot.TeleBot(bot_token)
@@ -30,6 +33,9 @@ def send_message(link, description):
     # Format and send the message
     message = f"{username} has tweeted a post. \n{description_text}"
     bot.send_message(user_id, message)
+    
+    # uncomment the next line if you will use dingding
+    # send_to_dd(message)
 
 # Function to parse feed
 def parse_feed(url):
