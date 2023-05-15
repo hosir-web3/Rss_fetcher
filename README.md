@@ -96,4 +96,4 @@ send_to_dd("Hello, DingTalk!")
 
 ### Contributions
 
-1. The push_dingding.py script was originally written by [鲁初雪](https://twitter.com/PNajgaGihn4ALWm). [Ho Sir]([Your Github link](https://github.com/hosir-web3)) has modified the script to better fit into this project's structure and to improve compatibility with the existing monitor_rss.py script.
+1. The push_dingding.py script was originally written by [鲁初雪](https://twitter.com/PNajgaGihn4ALWm). [Ho Sir](https://github.com/hosir-web3) has modified the script to better fit into this project's structure and to improve compatibility with the existing monitor_rss.py script.
