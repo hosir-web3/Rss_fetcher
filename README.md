@@ -92,6 +92,7 @@ send_to_dd("Hello, DingTalk!")
 ### Tutorials
 
 1. [Monitor Twitter RSS and send message to TG](https://twitter.com/eth_believer_ho/status/1657035019586609153).
+2. [Monitor Twitter RSS and send message to Dingding](https://twitter.com/eth_believer_ho/status/1658122805035122689)
 
 
 ### Contributions
